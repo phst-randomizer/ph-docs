@@ -8,17 +8,41 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Upgrade pip
+        run: pip install --upgrade pip
+
+      - name: Make a copy of old CSV files so they can be compared
+        run: |
+          mkdir -p csv/
+          cp -R csv/ csv_old/
+
+      - name: Install XLSX to CSV converter
+        run: pip install xlsx2csv
+
+      - name: Download dev spreadsheet from Google Sheets
+        run: wget --no-check-certificate --output-document=dev_sheet.xlsx "https://docs.google.com/spreadsheets/d/${{ secrets.DEV_SHEET_ID }}/export?format=xlsx"
+
+      - name: Convert XLSX spreadsheet to CSVs
+        run: xlsx2csv -a -s 0 dev_sheet.xlsx csv/
+
       - name: Configure git user
         run: |
           git config --local user.email "$(git log --format='%ae' HEAD^!)"
           git config --local user.name "$(git log --format='%an' HEAD^!)"
 
-      - name: Download dev spreadsheet from Google Sheets
+      - name: Commit and push dev spreadsheet if there are changes
         run: |
-          wget --no-check-certificate --output-document=dev_sheet.xlsx "https://docs.google.com/spreadsheets/d/${{ secrets.DEV_SHEET_ID }}/export?format=xlsx"
-          
-      - name: Commit and push dev spreadsheet
-        run: |
-          git add dev_sheet.xlsx
-          git commit -m "Update dev sheet"
-          git push origin main
+          # Only commit if there are changes
+          if diff -r csv/ csv_old/; then
+            echo "No changes detected"
+          else
+            git add dev_sheet.xlsx
+            git add csv
+            git commit -am "Update dev sheet"
+            git push origin main
+          fi
