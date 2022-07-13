@@ -2,7 +2,7 @@ Hex,Decimal,Item Name
 0x00,0,Nothing! (\'Nothing is here\')
 0x01,1,Key
 0x02,2,Green Rupee (1)
-0x03,3,Sword,invalid item id?
+0x03,3,Sword
 0x04,4,Shield
 0x05,5,"Key (TextboxNO MESSAGE"" (No Key Received!))"
 0x06,6,Force Gem (No Textbox)
