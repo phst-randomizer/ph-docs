@@ -197,6 +197,7 @@ Address,128,64,32,16,8,4,2,1,Note
 021D98D8,Rupee Count Display,,,,,,,,
 021D98D9,,,,,,,,,
 021DB9F6,Health,,,,,,,,
+021F56E0,,,,,,,,Salvage Arm health,
 021F9FF6,,Boat Health,,,,,,,
 021FA058,,,,,,,,,
 021FA064 ,Boat speed,,,,,,,,
