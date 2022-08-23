@@ -56,7 +56,8 @@ Address,128,64,32,16,8,4,2,1,Note
 0x021B5598,Cutscene flag?,,,,,,,,
 0x021BA4FE,Rupee Count,,,,,,,,
 0x021BA4FF,,,,,,,,,
-0x021BA348,,Health Container,,,,,,,
+0x021BA348,,Health capacity (i.e. number of heart containers * 4),,,,,,,
+0x021BA34A,Current health,,,,,,,,
 0x021BA4DC,,,,,,,,,"This address seems to be the base ""player flags"" address in the vanilla ROM."
 0x021BA4E8,"Phantom Hourglass max timer (Max is 99:59, which is 359999 (0x57E3F))",,,,,,,,
 0x021BA4E9,,,,,,,,,
