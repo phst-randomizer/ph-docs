@@ -169,7 +169,7 @@ Address,0x80,0x40,0x20,0x10,0x8,0x4,0x2,0x1,Note
 021BA606,"Adds ""Lv1"" to Spirit of Courage (Yellow or White) if acquired",Spirit of Wisdom,Spirit of Power,Spirit of Courage (Yellow),,,,,
 021BA607,,,"Spirit of Courage (White, only if Spirit of Courage (Yellow) not acquired)",Spirit of Wisdom Lv2,Spirit of Power Lv2,Spirit of Courage Lv2  (Yellow or White),"Adds ""Lv1"" to Spirit of Wisdom if acquired","Adds ""Lv1"" to Spirit of Power if acquired",
 021BA608,,Sun Key,Phantom Sword,Northeast Sea Chart,Southeast Sea Chart,Northwest Sea Chart,Southwest Sea Chart,Phantom Hourglass,
-021BA609,Big Catch Lure,Slate,Swordsman's Scroll,Ability to Salvage,Ghost Key,King's Key,,Ability to Fish,
+021BA609,Big Catch Lure,Cyclone Slate,Swordsman's Scroll,Ability to Salvage,Ghost Key,King's Key,,Ability to Fish,
 021BA610,Southwest Treasure Map 7,Southwest Treasure Map 6,Southwest Treasure Map 5,Southwest Treasure Map 4,Southwest Treasure Map 3,Southwest Treasure Map 2,Southwest Treasure Map 1,,
 021BA611,Northwest Treasure Map 8,Northwest Treasure Map 7,Northwest Treasure Map 6,Northwest Treasure Map 5,Northwest Treasure Map 4,Northwest Treasure Map 3,Northwest Treasure Map 2,Northwest Treasure Map 1,
 021BA612,Southeast Treasure Map 8,Southeast Treasure Map 7,Southeast Treasure Map 6,Southeast Treasure Map 5,Southeast Treasure Map 4,Southeast Treasure Map 3,Southeast Treasure Map 2,Southeast Treasure Map 1,
