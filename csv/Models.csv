@@ -42,8 +42,8 @@ house5,bar_ext.nsbmd,,,House 5,bar_outside.nsbtx
 judge_ext,bar_ext.nsbmd,,,Judge - Exterior,bar_outside.nsbtx
 bar_int,bar_int.nsbmd,,Bar Interior,Bar - Interior,bar_bottles.nsbtx
 barten,barten.nsbmd,,Bartender,Bartender,barten.nsbtx
-battle00_00,battle00_00.001.nsbmd,,,Battle Arena 00,uses multiple
-battle00_00,battle00_00.nsbmd,,,Battle Arena 00,uses multiple
+battle00_00,battle00_00.001.nsbmd,,Battle Arena 00 State 1,Battle Arena 00,uses multiple
+battle00_00,battle00_00.nsbmd,,Battle Arena 00 State 0,Battle Arena 00,uses multiple
 battle01_00,battle01_00.001.nsbmd,,,Battle Arena 01,uses multiple
 battle01_00,battle01_00.nsbmd,,,Battle Arena 01,uses multiple
 battle02_00,battle02_00.001.nsbmd,,,Battle Arena 02,uses multiple
@@ -80,7 +80,7 @@ block_crack0,block_crack0.nsbmd,,Cracked Block (Whole),Block - Cracked,block_cra
 block_crack1,block_crack1.nsbmd,,Cracked Block (Solid),Block - Cracked,block_crack1.nsbtx
 block_wind,block_wind.001.nsbmd,,Wind Block,Block - Wind,block_wind.001.nsbtx
 block_wind,block_wind.nsbmd,,Wind Block,Block - Wind,block_wind.001.nsbtx
-bom,bom.nsbmd,,,,bom.nsbtx
+bom,bom.nsbmd,,Bomb Sign,Bomb  ,bom.nsbtx
 bombocta,bombocta.nsbmd,,Bomb Octo,Bomb Octa,bocta_body_0.nsbtx
 boss_final1st,boss_final1st.nsbmd,,Bellum 1st Phase Arena,Boss - Final 1st Fight,LB1_Enkei.nsbtx
 LB1_Huta,boss_final1st.nsbmd,,Exit Staircase Block,Last Boss 1 Lid,LB1_Enkei.nsbtx
