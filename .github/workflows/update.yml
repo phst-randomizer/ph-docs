@@ -2,6 +2,7 @@ name: Update dev sheet
 on:
   schedule:
     - cron: "0 * * * *"  # Run once an hour
+  workflow_dispatch:
 jobs:
   update-dev-sheet:
     runs-on: ubuntu-latest
