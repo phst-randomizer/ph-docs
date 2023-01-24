@@ -6,7 +6,7 @@ SNGA,AGNS
 MSGA,AGSM
 KOKA,AKOK
 CAMA,AMAC
-NCMA,AMCN
+NCMA,AMCN,Some kind of cutscene/camera pan trigger (?)
 COMA,AMOC
 OCTA,ATCO
 MDTA,ATDM
@@ -74,7 +74,7 @@ VLRG,GRLV
 RLSG,GSLR
 CMSG,GSMC
 FMSG,GSMF
-NMSG,GSMN
+NMSG,GSMN,Cutscene/event triggerer (?)
 CCTG,GTCC
 DGTG,GTGD
 RMTG,GTMR,Mercay shop interior
