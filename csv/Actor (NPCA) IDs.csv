@@ -214,27 +214,25 @@ SNMY,YMNS
 RUPY,YPUR,Rupee
 SAUZ,ZUAS
 TMAP,PAMT,Treasure Map
-
 ENTS,STNE,Stone
 YEKN,NKEY,Small key
-DRUM,,storage drum from ghost ship
-TSUB,,Blue and white pot
-TARU,,Barrell
-PSBL,,Pushable/pullable block
-PSTM,,"Postman (plays ""Special delivery here I come"" cutscene where he flies in)"
-DGTG,,Shovel hole
-
-ITBT,,10 bombchus shop item
-ITHU,,Heart container shop item
-ITBM,,10 bombs shop item
-ITTR,,Random treasure shop item
-ITAP,,Quiver
-ITBB,,Bomb bag
-ITPB,,red potion shop item
-ITSR,,Courage (green) gem shop item
-ITSO,,sold out shop item
-ITSL,,shield shop item
-ITBK
-ITCC
-ITBY
-FLAL,,5 arrows
+DRUM,MURD,storage drum from ghost ship
+TSUB,BUST,Blue and white pot
+TARU,URAT,Barrell
+PSBL,LBSP,Pushable/pullable block
+PSTM,MTSP,"Postman (plays ""Special delivery here I come"" cutscene where he flies in)"
+DGTG,GTGD,Shovel hole
+ITBT,TBTI,10 bombchus shop item
+ITHU,UHTI,Heart container shop item
+ITBM,MBTI,10 bombs shop item
+ITTR,RTTI,Random treasure shop item
+ITAP,PATI,Quiver
+ITBB,BBTI,Bomb bag
+ITPB,BPTI,red potion shop item
+ITSR,RSTI,Courage (green) gem shop item
+ITSO,OSTI,sold out shop item
+ITSL,LSTI,shield shop item
+ITBK,KBTI
+ITCC,CCTI
+ITBY,YBTI
+FLAL,LALF,5 arrows
