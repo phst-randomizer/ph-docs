@@ -12,7 +12,7 @@ Hex,Decimal,Item Name
 0x0A,10,Heart Container
 0x0B,11,"Key (TextboxNO MESSAGE"" (No Key Received!))"
 0x0C,12,Boomerang
-0x0D,13,Shovel (No TB)
+0x0D,13,Shovel (No TB) 
 0x0E,14,Bombchus (No TB)
 0x0F,15,Boss Key
 0x10,16,"Red Potion (TextboxNO MESSAGE"") this doesn't seem to work, use 0x75 instead"
