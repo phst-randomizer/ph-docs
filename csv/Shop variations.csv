@@ -6,4 +6,4 @@ Mercay,10 bombs,10 bombs,Bombchus,10 bombs,10 bombs
 ,Wooden shield,Wooden shield,random treasure,Wooden shield,Wooden shield
 
 
-Function is at 0x21807b8 in overlay 31 (ghidra numbering); its return value is used as an index into the table of Actor IDs located at 0x2181800 in memory
+Function is at 0x21807b8 in overlay 31 (ghidra numbering); its return value is used as an index into the table of Actor IDs located at 0x2181800 in memory 
