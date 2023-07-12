@@ -1,7 +1,7 @@
 name: Update dev sheet
 on:
   schedule:
-    - cron: "0 * * * *"  # Run once an hour
+    - cron: "0 0 * * *"  # Run once a day
   workflow_dispatch:
 jobs:
   update-dev-sheet:
