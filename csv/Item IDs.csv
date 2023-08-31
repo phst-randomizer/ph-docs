@@ -17,7 +17,7 @@ Hex,Decimal,Item Name
 0x0F,15,Boss Key
 0x10,16,"Red Potion (TextboxNO MESSAGE"") this doesn't seem to work, use 0x75 instead"
 0x11,17,"Key (TextboxNO MESSAGE"" (No Key Received!))"
-0x12,18,"Key (TextboxNO MESSAGE"" (No Key Received!))"
+0x12,18,"Key (TextboxNO MESSAGE"" (No Key Received!)) Maybe the phantom hourglass"
 0x13,19,Southwest Sea Chart
 0x14,20,Northwest Sea Chart
 0x15,21,Southeast Sea Chart
