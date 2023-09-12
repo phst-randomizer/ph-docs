@@ -17,7 +17,7 @@ Hex,Decimal,Item Name
 0x0F,15,Boss Key
 0x10,16,"Red Potion (TextboxNO MESSAGE"") this doesn't seem to work, use 0x75 instead"
 0x11,17,"Key (TextboxNO MESSAGE"" (No Key Received!))"
-0x12,18,"Key (TextboxNO MESSAGE"" (No Key Received!)) Maybe the phantom hourglass"
+0x12,18,Phantom Hourglass
 0x13,19,Southwest Sea Chart
 0x14,20,Northwest Sea Chart
 0x15,21,Southeast Sea Chart
@@ -67,8 +67,8 @@ Hex,Decimal,Item Name
 0x41,65,Jolene's Letter
 0x42,66,Prize Postcard
 0x43,67,Wood Heart
-0x44,68,Sword (No TB) Sword blade ?
-0x45,69,"Key (""You got the Phantom Sword ..."")"
+0x44,68,Phantom Sword Blade
+0x45,69,Phantom Sword
 0x46,70,Key (No TB)
 0x47,71,Key (No TB)
 0x48,72,Key (No TB)
@@ -106,12 +106,12 @@ Hex,Decimal,Item Name
 0x68,104,Treasure Map (NEQ) [North East Quadrant]
 0x69,105,Treasure Map (NEQ) [North East Quadrant]
 0x6A,106,Treasure Map (NEQ) [North East Quadrant]
-0x6B,107,Nothing ?
-0x6C,108,Nothing ?
-0x6D,109,Nothing ? Courage gem upgrade?
-0x6E,110,Nothing ?
-0x6F,111,Nothing ?
-0x70,112,Nothing ?
+0x6B,107,Spirit of Power Upgrade Lvl 1
+0x6C,108,Spirit of Wisdom Upgrade Lvl 1
+0x6D,109,Spirit of Courage Upgrade Lvl 1
+0x6E,110,Spirit of Power Upgrade Lvl 2
+0x6F,111,Spirit of Wisdom Upgrade Lvl 2
+0x70,112,Spirit of Power Upgrade Lvl 2
 0x71,113,Swordsman Scroll
 0x72,114,Crimsonine
 0x73,115,Azurine
