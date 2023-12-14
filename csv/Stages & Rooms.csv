@@ -3,16 +3,16 @@ map00.bin,Main Island
 map10.bin,Cave with sun key door
 map14.bin,Molida shop
 
-isle_main
+isle_main,
 map00.bin,Bottom left area (contains Oshus' house)
-map01.bin
+map01.bin,
 map02.bin,Top right area (contains island with wifi trading containers)
 map03.bin,Mercay town
-map04.bin
-map05.bin
-map06.bin
-map07.bin
-map08.bin
+map04.bin,
+map05.bin,
+map06.bin,
+map07.bin,
+map08.bin,
 map13.bin,Shipyard
 map16.bin,Cave connecting area in front of ToTOK to the ledge above town
 map17.bin,Oshus' Sword cave
