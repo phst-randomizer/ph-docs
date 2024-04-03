@@ -9,27 +9,24 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
-
-      - name: Upgrade pip
-        run: pip install --upgrade pip
-
       - name: Make a copy of old CSV files so they can be compared
         run: |
           mkdir -p csv/
           cp -R csv/ csv_old/
+          git rm -r csv/*
 
       - name: Install XLSX to CSV converter
-        run: pip install xlsx2csv
+        run: |
+          sudo apt-get update
+          sudo apt-get install --yes gnumeric
 
       - name: Download dev spreadsheet from Google Sheets
         run: wget --no-check-certificate --output-document=dev_sheet.xlsx "https://docs.google.com/spreadsheets/d/${{ secrets.DEV_SHEET_ID }}/export?format=xlsx"
 
       - name: Convert XLSX spreadsheet to CSVs
-        run: xlsx2csv -a -s 0 dev_sheet.xlsx csv/
+        run: |
+          mkdir csv/
+          ssconvert --export-type=Gnumeric_stf:stf_csv dev_sheet.xlsx csv/sheet-%n.csv --export-file-per-sheet
 
       - name: Configure git user
         run: |
