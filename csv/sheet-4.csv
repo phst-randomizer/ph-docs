@@ -1,0 +1,13 @@
+".nsbmd  ","Models, textures, and palletes",
+.nsbtx,"Textures, and palletes",
+.nsbca,"Joint Animations",
+".nsbtp  ","Pattern Animations",
+".nsbta  ","Material Animations",
+.bmg,"Pack Text File",
+,,
+.sdat,"Sound Data","See http://www.feshrine.net/hacking/doc/nds-sdat.php"
+.sseq,"Sound Sequence",
+.ssar,"Sequence Archive",
+.sbnk,"Sound Bank",
+.swar,"Wave Archive",
+.strm,Stream,

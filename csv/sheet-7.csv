@@ -1,31 +1,31 @@
-File Name,Translation
+"File Name",Translation
 battle.bmg,
 battleCommon.bmg,
 bossLast1.bmg,
 bossLast3.bmg,
-brave.bmg,Molida Island
+brave.bmg,"Molida Island"
 collect.bmg,"Contains list of ship parts/their descriptions, name of every item in the game/their descriptions"
 demo.bmg,"Intro CG text, text/events for first time in the TotOK, text/events related to getting spirits and phantom sword, ending CG text"
 field.bmg,"Mail-related text (letter contents, postman dialog, etc), Shop items text (for ex, descriptions of each of the sold items)"
-flame.bmg,Isle of Ember
+flame.bmg,"Isle of Ember"
 frost.bmg,
 ghost.bmg,
-hidari.bmg,Bannan Island
-kaitei.bmg,Temple of the Ocean King
+hidari.bmg,"Bannan Island"
+kaitei.bmg,"Temple of the Ocean King"
 kaitei_F.bmg,
-kojima1.bmg,Harrow Island
-kojima2.bmg,Maze Island
-kojima3.bmg,Uncharted Island
-kojima5.bmg,Dee Ess Island
-mainselect.bmg,File select text
-main_isl.bmg,Mercay island
-myou.bmg,Isle of the Dead
+kojima1.bmg,"Harrow Island"
+kojima2.bmg,"Maze Island"
+kojima3.bmg,"Uncharted Island"
+kojima5.bmg,"Dee Ess Island"
+mainselect.bmg,"File select text"
+main_isl.bmg,"Mercay island"
+myou.bmg,"Isle of the Dead"
 power.bmg,
-regular.bmg,Demo text
+regular.bmg,"Demo text"
 sea.bmg,"Fishing, salvage arm, sea-related dialog and events"
 sennin.bmg,"Spirit Isle, Zauz's Island"
 ship.bmg,
-staff.bmg,Staff credits
+staff.bmg,"Staff credits"
 system.bmg,"Seems to contain all ""Got item"" text"
 torii.bmg,
 wind.bmg,

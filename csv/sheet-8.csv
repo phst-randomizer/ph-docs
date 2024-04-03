@@ -1,0 +1,72 @@
+#,"Course List ID","Developer ID",Translation,Identification,Notes,Used
+0x00,sea,ウミ,Ocean,Ocean,,✔
+0x01,sea_minigame,ミニゲームウミ,"Ocean Minigame","Salvatore's Cannon Game",,✔
+0x02,sea_fishing,ツリ,Fishing,"Fishing Map",,✔
+0x03,sea_salvage,サルベージ,Salvage,"Salvage Arm Map",,✔
+0x04,ship,フネ,Ship,"Linebeck's Ship",,✔
+0x05,ship_terry,テリーセン,"Terry's Ship","Beedle's Ship",,✔
+0x06,ship_wonder,フシギフネ,"Mystery Ship","Man of Smiles's Ship",,✔
+0x07,ship_flink,ニセリンクフネ,"Fake Link Ship","Nyeve's Ship",,✔
+0x08,ship_fisher,リョウシフネ,"Fisherman's Ship","S.S Wayfarer Ship",,✔
+0x09,ship_hoho,ホーホーフネ,"Hohos' Ship","Hohos' Ship",,✔
+0x0A,ship_guard,ケイビインフネ,"Guard Ship","Nyave's Ship",,✔
+0x0B,isle_main,メインジマ,"Main Island","Mercay Island",,✔
+0x0C,isle_pluck,ユウキジマ,"Courage Island","Molida Island",,✔
+0x0D,isle_flame,ヒシマ,"Fire Island","Isle of Ember",,✔
+0x0E,isle_wind,カゼジマ,"Wind Island","Isle of Gust",,✔
+0x0F,isle_water,コオリシマ,"Ice Island","Isle of Frost",,✔
+0x10,isle_power,チカラシマ,"Power Island","Goron Island",,✔
+0x11,isle_wisdom,チエジマ,"Wisdom Island","Isle of Ruins",,✔
+0x12,isle_wisdom2,チエジマ2,"Wisdom Island 2","Isle of Ruins (Drained)",,✔
+0x13,isle_torii,トリイシマ,"Torii Island","Cannon Island","This island has a torii gate at the entrance.",✔
+0x14,isle_hidari,ヒダリダイシマ,"Hidaridai Island","Bannan Island","In the final game, this island's Japanese name is ボヌン島 (Bonun Island).",✔
+0x15,isle_myou,ミョウジマ,"Eerie Island","Isle of the Dead",,✔
+0x16,isle_wizard,センニンジマ,"Guru Island","Zauz's Island",,✔
+0x17,isle_shrine,ホコラジマ,"Shrine Island","Spirit Island",,✔
+0x18,isle_small1,コジマ1,"Small Island 1","Harrow Island",,✔
+0x19,isle_small2,コジマ2,"Small Island 2","Maze Island",,✔
+0x1A,isle_small3,コジマ3,"Small Island 3","Unknown Island",,✔
+0x1B,isle_small5,コジマ5,"Small Island 5","Dee Ess Island",,✔
+0x1C,dngn_flame,ヒシンデン,"Fire Temple","Temple of Fire",,✔
+0x1D,dngn_wind,カゼシンデン,"Wind Temple","Temple of Wind",,✔
+0x1E,dngn_pluck,ユウキシンデン,"Courage Temple","Temple of Courage",,✔
+0x1F,dngn_water,コオリシンデン,"Ice Temple","Temple of Ice",,✔
+0x20,dngn_power,チカラシンデン,"Power Temple","Goron Temple",,✔
+0x21,dngn_wisdom,チエシンデン,"Wisdom Temple","Mutoh's Temple",,✔
+0x22,dngn_wisdom2,チエシンデン2,"Wisdom Temple 2","Doylan's Temple",,✔
+0x23,dngn_wisdom3,チエシンデン3,"Wisdom Temple 3","Max's Temple",,✔
+0x24,dngn_wisdom4,チエシンデン4,"Wisdom Temple 4","Bremeur's Temple",,✔
+0x25,dngn_main,メインダン,"Main Dungeon","Temple of the Ocean King",,✔
+0x26,dngn_main_f,メインゼンシツ,"Main - Antechamber","Temple of the Ocean King Exterior",,✔
+0x27,dngn_first,チュートリアル,Tutorial,"Mountain Passage (Mercay Cave)",,✔
+0x28,dngn_torii,トリイダン,"Torii Dungeon","Cannon Island Cave",,✔
+0x29,dngn_ghost,ユウレイセン,"Ghost Ship","Ghost Ship",,✔
+0x2A,boss_wind,カゼボス,"Wind Boss",Cyclok,,✔
+0x2B,boss_flame,ヒボス,"Fire Boss",Blaaz,,✔
+0x2C,boss_pluck,ユウキボス,"Courage Boss",Crayk,,✔
+0x2D,boss_water,コオリボス,"Ice Boss",Gleeok,,✔
+0x2E,boss_power,チカラボス,"Power Boss",Dongorongo,,✔
+0x2F,boss_wisdom,チエボス,"Wisdom Boss",Eox,,✔
+0x30,boss_ghost,ユウレイボス,"Ghost Boss","Cubus Sisters",,✔
+0x31,boss_last1,ラスボス1,"Last Boss 1","Bellum 1",,✔
+0x32,boss_last2,ラスボス2,"Last Boss 2","Bellum 2",,✔
+0x33,boss_last3,ラスボス3,"Last Boss 3","Bellum 3",,✔
+0x34,demo_op,オープニング,Opening,"Intro Slideshow",,
+0x35,demo_title,キャクマチ,"Sitting Idle","Title Screen",,✔
+0x36,demo_end,エンディング,Ending,,,
+0x37,demo_chase,デモ26_03,"Cutscene 26-03",,,
+0x38,seatest,"Sea Test","Sea Test",,Removed,✘
+0x39,mtest2,MapTest,"Map Test",,Removed,✘
+0x3A,player_dngn,Player,Player,"Test Dungeon",,✘
+0x3B,enemytest,"Enemy Test","Enemy Test",,Removed,✘
+0x3C,eventtest,"Event Test","Event Test",,Removed,✘
+0x3D,roomtest,RoomTest,"Room Test",,Removed,✘
+0x3E,battle00,"Battle 0","Battle 0",,Inaccessible,
+0x3F,battle01,"Battle 1","Battle 1",,Inaccessible,
+0x40,battle02,"Battle 2","Battle 2",,Inaccessible,
+0x41,battle03,"Battle 3","Battle 3",,Inaccessible,
+0x42,battle04,"Battle 4","Battle 4",,Inaccessible,
+0x43,battle05,"Battle 5","Battle 5",,Inaccessible,
+0x44,battle06,"Battle 6","Battle 6",,Inaccessible,
+0x45,battle07,"Battle 7","Battle 7",,Inaccessible,
+0x46,battle11,バトル11,"Battle 11",,"Removed (?)",
